@@ -71,11 +71,17 @@ See the Star Schema documentation in `docs/` for the data model and relationship
 
 ## Documentation
 
-Detailed project documentation is available in the `docs/` folder:
+Detailed project documentation:
 
-- Architecture Diagram
-- Data Flow and Lineage
-- Star Schema and Data Model
+| Document | Description |
+|---|---|
+| [Data Architecture](docs/data_architecture.png) | Overall warehouse architecture |
+| [Data Flow](docs/data_flow.png) | Data movement through the pipeline |
+| [Data Integration](docs/data_integration.png) | Integration of CRM and ERP sources |
+| [Data Model](docs/data_model.png) | Entity relationships and data model |
+| [Data Catalog](docs/data_catalog.md) | Tables, columns, and descriptions |
+| [Naming Conventions](docs/naming_conventions.md) | Database naming standards |
+| [Requirements](docs/requirements.md) | Project requirements |
 
 ## Project Limitations
 
